@@ -12,7 +12,7 @@
 }
 
 .title-1 {
-    font-family:'Work Sans';
+    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 65px;
@@ -23,8 +23,9 @@
     margin-bottom: 24px;
     color: #151414;
 }
-.title-2{
-    font-family:'Work Sans';
+
+.title-2 {
+    font-family: 'Work Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -35,14 +36,204 @@
     margin-bottom: 24px;
     color: #444343;
 }
-.button-1{
-   padding: 20px 20px;
-   background-color: #F15B22;
-   border-radius: 7px;
-   border: none;
-   text-align: right;
-   margin-left: 1000px;
-   margin-top: 200px;
-   color: white;
-   font-size: 20px;
+
+.button-1 {
+    padding: 20px 20px;
+    background-color: #F15B22;
+    border-radius: 7px;
+    border: none;
+    text-align: right;
+    margin-left: 1000px;
+    margin-top: 200px;
+    color: white;
+    font-size: 20px;
+}
+
+.failure-title1 {
+    text-align: right;
+    font-weight: 700;
+    font-size: 35px;
+    color: #151414;
+    margin-right: 150px;
+    position: relative;
+    top: 250px;
+}
+
+.failure-description {
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-right: 300px;
+    position: relative;
+    top: 250px;
+    margin-top: 24px;
+
+}
+
+.failure-lists {
+
+    text-align: right;
+    margin-right: 300px;
+    position: relative;
+    bottom: 300px;
+    list-style: none;
+    margin-top: -150px;
+    margin-right: 370px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #444343;
+
+}
+
+.fa-solid,
+.fa-check {
+
+    color: #33DD96;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-decoration: #444343;
+    ;
+
+}
+
+.my-plans-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 46px
+}
+
+.images {
+    text-align: center;
+    margin-left: 330px;
+    display: flex;
+    align-items: center;
+    margin-right: 330px;
+    margin-top: 26.7px;
+}
+
+.text-image {
+    position: relative;
+    top: 70px;
+    right: 100px;
+}
+
+.gradient-banner {
+    width: 1140px;
+    height: 300px;
+    align-items: center;
+    margin-top: 330px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background: url(..//images/gradient2.png), url(..//images/watch.png);
+}
+
+.gradient-text {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    position: relative;
+    top: 55px;
+    left: 64px;
+
+}
+
+.button-2 {
+    padding: 21px 20px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 70px;
+    margin-left: 64px;
+}
+
+.footer-image {
+    margin-top: 300px;
+    width: 1366px;
+    height: 700px;
+    background: #151414;
+}
+
+.footer-text {
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 130px;
+    margin-left: 230px;
+    position: relative;
+    top: 130px;
+
+}
+
+.footer-description {
+    color: #F8F8F8;
+    font-weight: 400;
+    margin-top: 10px;
+    font-size: 16px;
+    margin-left: 230px;
+    position: relative;
+    top: 130px;
+
+
+}
+
+.footer-info-text-2 {
+    color: white;
+    margin-left: 230px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+    position: relative;
+    top: 130px;
+
+}
+
+.footer-info-text-1 {
+    color: white;
+    margin-left: 230px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+    position: relative;
+    top: 130px;
+
+}
+
+.footer-img {
+    position: relative;
+    top: 150px;
+    left: 220px;
+    margin-left: 10px;
+
+}
+
+.subscribe-area {
+    font-weight: 600;
+    font-size: 25px;
+    position: relative;
+    left: 500px;
+    color: white;
+    bottom: 40px;
+}
+input{
+    background-color : #151414;
+    position: relative;
+    left: 500px;
+    padding: 12px 20px;
+}
+.button-3 {
+    padding: 21px 20px;
+    color: #F15B22;
+    background: #FFFFFF;
+    border: none;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 1px;
+    margin-left: 1004px;
+    
 }
